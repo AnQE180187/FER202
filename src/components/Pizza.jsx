@@ -66,21 +66,21 @@ const PizzaHouse = () => {
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="./images/slide1.jpg" className="d-block w-100" alt="Pizza 1" />
+            <img src="./images/pizza1.jpg" className="d-block w-100" alt="Pizza 1" />
             <div className="carousel-caption d-none d-md-block">
               <h3>Neapolitan Pizza</h3>
               <p>If you're looking for traditional Italian pizza, the Neapolitan is the best option!</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="./images/slide2.jpg" className="d-block w-100" alt="Pizza 2" />
+            <img src="./images/pizza2.jpg" className="d-block w-100" alt="Pizza 2" />
             <div className="carousel-caption d-none d-md-block">
               <h3>Cheese Pizza</h3>
               <p>Cheese lovers, this is for you!</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="./images/slide3.jpg" className="d-block w-100" alt="Pizza 3" />
+            <img src="./images/pizza3.jpg" className="d-block w-100" alt="Pizza 3" />
             <div className="carousel-caption text-black d-none d-md-block">
               <h3>Pepperoni Pizza</h3>
               <p>For those who love a bit of spice!</p>
